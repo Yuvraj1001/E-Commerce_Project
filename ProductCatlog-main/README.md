@@ -1,17 +1,17 @@
 "# ProductCatlog" 
 
-https://productcatlog-2-ho49.onrender.com/
+
 # 🛍️ ChazeFashion - Product Catalog System
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![Django](https://img.shields.io/badge/Django-4.x-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ChazeFashion is a modern fashion product catalog built using Django. It allows fashion brands or retailers to manage, display, and organize their product offerings in an elegant and scalable way. It’s designed with extendibility and clean architecture in mind.
 
 ---
 
 ## 🚀 Features
+
+
 
 - 🧾 **Product Listing:** Organized product display with categories and details
 - 🖼️ **Media Management:** Upload and serve avatar and product images
@@ -72,9 +72,7 @@ Recommended IDE: Visual Studio Code
 🤝 Contributing
 Contributions are welcome! Feel free to open issues or pull requests if you’d like to collaborate.
 
-🧑‍💻 Author
-Bhairava009
-GitHub: @bhairava009
+
 
 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
